@@ -1,5 +1,5 @@
 # 📦 Supply Chain Inflation – World Bank Panel Data Analysis 
-(UofT Rotman Datathon 2025 Champion Submission)
+# (UofT Rotman Datathon 2025 Champion Submission)
 
 **A global analysis of producer price inflation using panel data, with variable optimization via VIF and correlation filtering, and model selection via Fixed and Random Effects modeling.**  
 *Developed as part of Datathon 2025 by Sam & Zaheen.*
