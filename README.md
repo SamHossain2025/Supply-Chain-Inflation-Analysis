@@ -12,9 +12,7 @@
 
 ## 👥 Authors
 
-**Sam Hossain**
-
-**Zaheen Mahaey**
+**Sam Hossain, Zaheen Mahaey**
 
 ---
 
