@@ -69,8 +69,6 @@ Supply-Chain-Inflation-World-Bank-Data-Analysis/
 
 ## 🧾 Dashboard
 
-Find our final Datathon 2025 deliverables here:
-
 * 🎯 **Presentation:** `presentation/Datathon-2025-Sam_Zaheen_PPT.pptx`
 * 📄 **Report:** `presentation/Datathon-2025-Sam_Zaheen_Report.pdf`
 
