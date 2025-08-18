@@ -77,15 +77,16 @@ Supply-Chain-Inflation-World-Bank-Data-Analysis/
 * 📄 **Report:** `presentation/Datathon-2025-Sam_Zaheen_Report.pdf`
 
 Glimpse of our extensive research and findings dashboards:
+
 <p align="center">
-  <img src="presentation/assets/dashboard1.png" alt="Dashboard 1" width="80%">
-  <img src="presentation/assets/dashboard2.png" alt="Dashboard 2" width="80%">
-  <img src="presentation/assets/dashboard3.png" alt="Dashboard 3" width="80%">
-  <img src="presentation/assets/dashboard4.png" alt="Dashboard 4" width="80%">
-  <img src="presentation/assets/dashboard5.png" alt="Dashboard 5" width="80%">
-  <img src="presentation/assets/dashboard6.png" alt="Dashboard 6" width="80%">
-  <img src="presentation/assets/dashboard7.png" alt="Dashboard 7" width="80%">
-  <img src="presentation/assets/dashboard8.png" alt="Dashboard 8" width="80%">
+  <img src="presentation/assets/dashboard1.jpg" alt="Dashboard 1" width="80%">
+  <img src="presentation/assets/dashboard2.jpg" alt="Dashboard 2" width="80%">
+  <img src="presentation/assets/dashboard3.jpg" alt="Dashboard 3" width="80%">
+  <img src="presentation/assets/dashboard4.jpg" alt="Dashboard 4" width="80%">
+  <img src="presentation/assets/dashboard5.jpg" alt="Dashboard 5" width="80%">
+  <img src="presentation/assets/dashboard6.jpg" alt="Dashboard 6" width="80%">
+  <img src="presentation/assets/dashboard7.jpg" alt="Dashboard 7" width="80%">
+  <img src="presentation/assets/dashboard8.jpg" alt="Dashboard 8" width="80%">
 </p>
 
 ---
