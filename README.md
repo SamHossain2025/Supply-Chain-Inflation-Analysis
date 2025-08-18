@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="presentation/assets/banner.png" alt="Project Banner" width="100%">
+</p>
+
 # 📦 Data Analysis - Supply Chain Inflation of the World
 
 **A global analysis of PPI (Producer Price Inflation) using World Bank panel data, with variable optimization via VIF and correlation filtering, and model selection via Fixed and Random Effects modeling.**
