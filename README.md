@@ -77,7 +77,6 @@ Supply-Chain-Inflation-World-Bank-Data-Analysis/
 * 📄 **Report:** `presentation/Datathon-2025-Sam_Zaheen_Report.pdf`
 
 Glimpse of our extensive research and findings dashboards:
-
 <p align="center">
   <img src="presentation/assets/dashboard1.png" alt="Dashboard 1" width="80%">
   <img src="presentation/assets/dashboard2.png" alt="Dashboard 2" width="80%">
