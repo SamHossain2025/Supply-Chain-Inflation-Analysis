@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 Objective
+## 🎯 Overview
 
 This project investigates the key drivers of **Producer Price Inflation** across countries using a structured panel dataset sourced from the **World Bank**, **UNDP**, and other development indicators. We applied panel data regression techniques (FE/RE) and selected variables using statistical filters like VIF and correlation thresholds.
 
