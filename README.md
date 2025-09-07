@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="6 Assets/Recognition1.png" alt="Project Banner" width="100%">
+  Linkedin Post:
   <img src="6 Assets/Recognition2.png" alt="Project Banner" width="100%">
 </p>
 
