@@ -19,9 +19,12 @@
 **UofT Rotman Datathon 2025 Champion Project**
 
 <p align="center">
-  <img src="6 Assets/Recognition1.png" alt="Project Banner" width="100%">
-  Linkedin Post:
-  <img src="6 Assets/Recognition2.png" alt="Project Banner" width="100%">
+  <img src="6 Assets/Recognition1.png" alt="Project Banner" width="50%">
+</p>
+
+Linkedin Post:
+<p align="center">
+  <img src="6 Assets/Recognition2.png" alt="Project Banner" width="50%">
 </p>
 
 ---
