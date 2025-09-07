@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="presentation/assets/banner.png" alt="Project Banner" width="100%">
+  <img src="6 Assets/banner.png" alt="Project Banner" width="100%">
 </p>
 
 # 📦 Data Analysis - Supply Chain Inflation of the World
