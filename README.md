@@ -9,7 +9,7 @@
 - Topics covered: **Macroeconomic Data Analysis**
 - Models used: **Linear Regression Panel Data**
 - Expected outcome:
-    - **Find out inflation influencers** 
+    - **Find out global inflation influencers** 
     - **Recommend ways to minimize them**
 
 ---
