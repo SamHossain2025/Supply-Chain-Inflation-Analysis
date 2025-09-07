@@ -2,15 +2,23 @@
   <img src="6 Assets/Banner.png" alt="Project Banner" width="100%">
 </p>
 
-# 📦 Data Analysis - Supply Chain Inflation of the World
+# 📦 Supply Chain and Consumer Inflation Analysis of the World
 
 **A global analysis of PPI (Producer Price Inflation) using World Bank panel data, with variable optimization via VIF and correlation filtering, and model selection via Fixed and Random Effects modeling.**
+
+Topics covered: Macroeconomic Data Analysis
+Models used: Linear Regression Panel Data
+Expected outcome: Inflation influencers and ways to minimize them
 
 ---
 
 ## 🏆 Recognition
 
 **UofT Rotman Datathon 2025 Champion Project**
+
+<p align="center">
+  <img src="6 Assets/Banner.png" alt="Project Banner" width="100%">
+</p>
 
 ---
 
@@ -98,7 +106,7 @@ Glimpse of our extensive research and findings dashboards:
    ```bash
    git clone https://github.com/YOUR_USERNAME/Supply-Chain-Inflation-World-Bank-Data-Analysis.git
    cd Supply-Chain-Inflation-World-Bank-Data-Analysis
-   ````
+   ```
 
 2. **Install dependencies**
 
