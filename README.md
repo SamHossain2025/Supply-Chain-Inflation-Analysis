@@ -4,9 +4,9 @@
 
 # 📦 Supply Chain and Consumer Inflation Analysis of the World
 
-**A global analysis of PPI (Producer Price Inflation) using World Bank panel data, with variable optimization via VIF and correlation filtering, and model selection via Fixed and Random Effects modeling.**
+*A global analysis of PPI (Producer Price Inflation) using World Bank panel data, with variable optimization via VIF and correlation filtering, and model selection via Fixed and Random Effects modeling.*
 
-- Topics covered: Macroeconomic Data Analysis
+- Topics covered: **Macroeconomic Data Analysis**
 - Models used: Linear Regression Panel Data
 - Expected outcome: Inflation influencers and ways to minimize them
 
