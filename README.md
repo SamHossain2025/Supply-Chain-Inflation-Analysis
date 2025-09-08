@@ -128,8 +128,6 @@ This project is licensed under the [MIT License](LICENSE)
 
 # 📦 Supply Chain and Consumer Inflation Analysis of the World
 
-A global study on inflation triggers using country-level economic indicators.
-
 *This project analyzes global Producer Price Inflation (PPI) using World Bank panel data. We cleaned, optimized, and modeled the data using Fixed and Random Effects to reveal policy-relevant insights.*
 
 * Topics covered: **Macroeconomic Data Analysis**
@@ -142,6 +140,16 @@ A global study on inflation triggers using country-level economic indicators.
 
 ---
 
+## 🏆 Recognition
+
+**UofT Rotman Datathon 2025 Champion Project**
+
+<p align="center">
+  <img src="6 Assets/Recognition1.png" width="50%"> <img src="6 Assets/Recognition2.png" width="45%">
+</p>
+
+---
+
 ## 👥 Authors
 
 **Sam Hossain, Zaheen Mahaey**
@@ -151,6 +159,7 @@ A global study on inflation triggers using country-level economic indicators.
 ## 🔍 Problem Statement
 
 **Goal:**
+
 Identify the economic indicators influencing supply chain-related inflation (PPI) across countries, and determine how regional and income-level differences affect the inflation experience.
 
 **Challenges Addressed:**
@@ -198,12 +207,13 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 * FE models showed strong individual country differences
 
 <p align="center">
-  <img src="6 Assets/Findings1.jpg" width="80%">
-  <img src="6 Assets/Findings2.jpg" width="80%">
-  <img src="6 Assets/Findings3.jpg" width="80%">
-  <img src="6 Assets/Findings4.jpg" width="80%">
-  <img src="6 Assets/Findings5.jpg" width="80%">
+  <img src="6 Assets/Findings1.png" width="80%">
+  <img src="6 Assets/Findings2.png" width="80%">
+  <img src="6 Assets/Findings3.png" width="80%">
+  <img src="6 Assets/Findings4.png" width="80%">
+  <img src="6 Assets/Findings5.png" width="80%">
 </p>
+
 
 ---
 
@@ -214,18 +224,27 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 * Target income-specific strategies (subsidies, tech transfers, etc.)
 
 <p align="center">
-  <img src="6 Assets/Recommendation1.jpg" width="80%">
-  <img src="6 Assets/Recommendation2.jpg" width="80%">
+  <img src="6 Assets/Recommendation1.png" width="80%">
+  <img src="6 Assets/Recommendation2.png" width="80%">
+  <img src="6 Assets/Recommendation3.png" width="80%">
+  <img src="6 Assets/Recommendation4.png" width="80%">
+  <img src="6 Assets/Recommendation5.png" width="80%">
 </p>
+
+
 
 ---
 
 ## 📊 Output Dashboard
 
 <p align="center">
-  <img src="6 Assets/Recommendation1.jpg" width="80%">
-  <img src="6 Assets/Recommendation2.jpg" width="80%">
+  <img src="6 Assets/Dashboard1.png" width="80%">
+  <img src="6 Assets/Dashboard2.png" width="80%">
+  <img src="6 Assets/Dashboard3.png" width="80%">
+  <img src="6 Assets/Dashboard4.png" width="80%">
+  <img src="6 Assets/Dashboard5.png" width="80%">
 </p>
+
 
 ---
 
@@ -234,8 +253,8 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/SamHossain2025/Supply-Chain-Inflation-World-Bank-Data-Analysis.git
-   cd Supply-Chain-Inflation-World-Bank-Data-Analysis
+   git clone https://github.com/SamHossain2025/Supply-Chain-Inflation-Analysis.git
+   cd Supply-Chain-Inflation-Analysis
    ```
 
 2. **Install dependencies**
@@ -268,6 +287,3 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 ## 🔓 License
 
 This project is licensed under the [MIT License](LICENSE)
-
----
-
