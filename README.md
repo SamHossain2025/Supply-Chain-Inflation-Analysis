@@ -48,7 +48,7 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 
 ---
 
-## ⚙️ Workflow
+## 🔧 Workflow
 
 ### ✅ Data Preparation
 
@@ -76,7 +76,7 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 
 ---
 
-## 🧪 Key Findings
+## 🎯 Key Findings
 
 * Logistic and infrastructure bottlenecks are top inflation drivers
 * RE models revealed patterns across income and region levels
@@ -93,7 +93,7 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 
 ---
 
-## 🧪 Key Recommendations
+## 💡 Key Recommendations
 
 * Improve logistics performance in developing nations
 * Promote energy diversification to stabilize price shocks
@@ -135,7 +135,7 @@ Identify the economic indicators influencing supply chain-related inflation (PPI
 
 ---
 
-## 📊 Data Sources
+## 🧬 Data Sources
 
 * 📌 [World Bank Open Data](https://data.worldbank.org/)
 * 📌 UNDP Human Development Reports
