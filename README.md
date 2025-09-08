@@ -6,7 +6,7 @@
 
 *This project analyzes global Producer Price Inflation (PPI) using World Bank panel data. We cleaned, optimized, and modeled the data using Fixed and Random Effects to reveal policy-relevant insights.*
 
-* Dataset timeline: 2010 January – 2023 December
+* Dataset timeline: **2010 January – 2023 December**
 * Topics covered: **Macroeconomic Data Analysis**
 * Models used: **Linear Regression Panel Data**
 * Skills demonstrated: **Data Wrangling, VIF, Correlation Filtering, FE/RE Modeling**
