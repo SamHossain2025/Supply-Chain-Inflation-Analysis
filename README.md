@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="6 Assets/Banner.png" alt="Project Banner" width="100%">
+  <img src="6 Assets/Banner.png" width="100%">
 </p>
 
 # 📦 Supply Chain and Consumer Inflation Analysis of the World
@@ -43,9 +43,9 @@ This project investigates the key drivers of **Producer Price Inflation** across
 - ✅ **Modeling with Fixed Effects and Random Effects**
 - ✅ **Hausman Test** to determine the preferred model
 - ✅ **Interactive visualizations** for data insight
-- ✅ 📊 Final deliverables: PowerPoint presentation & written report
 
 ---
+
 ## 🧪 Model Insights
 
 * Multicollinearity handled via VIF (threshold = 10) and correlation > 0.9
@@ -53,32 +53,6 @@ This project investigates the key drivers of **Producer Price Inflation** across
 * Hausman Test used to choose FE vs RE
 * Model 3 demonstrated the most **robust results** and interpretability
 
----
-
-## 📁 Project Structure
-
-```
-
-Supply-Chain-Inflation-World-Bank-Data-Analysis/
-│
-├── notebooks/
-│   ├── Datathon\_Model\_3\_Final.ipynb
-│   └── Datathon\_Model\_3\_Visualization.ipynb
-│
-├── data/
-│   ├── raw/
-│   │   └── Datathon\_data-2025-Raw\.xlsx
-│   └── processed/
-│       └── Model 3\_Region\_Income Group.xlsx
-│
-├── presentation/
-│   ├── Datathon-2025-Sam\_Zaheen\_PPT.pptx
-│   └── Datathon-2025-Sam\_Zaheen\_Report.pdf
-│
-├── requirements.txt
-└── README.md
-
-````
 ---
 
 ## 🧾 Dashboard
