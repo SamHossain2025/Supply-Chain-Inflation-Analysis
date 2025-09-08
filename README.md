@@ -2,7 +2,7 @@
   <img src="6 Assets/Banner.png" width="100%">
 </p>
 
-# 📦 Supply Chain and Consumer Inflation Analysis of the World
+# 🌍 Supply Chain and Consumer Inflation Analysis of the World
 
 *This project analyzes global Producer Price Inflation (PPI) using World Bank panel data. We cleaned, optimized, and modeled the data using Fixed and Random Effects to reveal policy-relevant insights.*
 
